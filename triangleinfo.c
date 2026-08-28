@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 
+// build command 
+//gcc triangleinfo.c -o bin/triangleinfo
+
 double area(double a, double b, double c );
 
 int main(void) {
